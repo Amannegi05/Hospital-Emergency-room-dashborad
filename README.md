@@ -91,7 +91,7 @@ Supports resource allocation during peak hours
 Enables data-driven decision-making
 
  
-
+https://github.com/Amannegi05/Hospital-Emergency-room-dashborad/blob/main/Hospital%20Dashboard.png
 
 
 
